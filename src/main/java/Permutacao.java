@@ -10,7 +10,7 @@ public class Permutacao {
 
         // Lista de números totais e sem repetição
         // Altere os números de numbersForPermutation para testar
-        List<Integer> numbersForPermutation = Arrays.asList(11);
+        List<Integer> numbersForPermutation = Arrays.asList(1,2,3);
         Set<List<Integer>> permutationWithoutRepetion = new HashSet<>();
 
         System.out.println("-------------------------------------------------------------");
